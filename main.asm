@@ -1,5 +1,5 @@
 #  ###########################################################################
-#  Name: Isabella Maffeo
+#  Name: Isabella
 #  Assignment: MIPS #4
 #  Description:  Simulate rolling two dice and determining statistics around the rolls
 #				 Prompt the user for a value between a given range. Roll as many times
